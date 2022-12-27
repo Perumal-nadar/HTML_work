@@ -1,0 +1,13 @@
+body
+{
+	background-image: linear-gradient(rgba(255,0,0,0.4),rgba(10,64,248,0.4)),url(demo.jpg);
+	background-size: cover;
+	background-position: center; 
+}
+.welcome
+{
+	margin:10% auto 0;
+	color: #fff;
+	font-size: 30px;
+	text=aling: center;
+}
