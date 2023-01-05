@@ -1,0 +1,46 @@
+body
+{
+	background-image:url(beach-resort.gif);
+	background-position:calc();
+	height: 130%;
+	width: 130%;
+	background-size: cover;
+	background-position: center; 
+}
+a:link{
+	color: white;
+	text-decoration:none;}
+ul { 
+	  font-size:20px;
+	  list-style-type: none;
+	  margin: 0px;
+	  padding: 0;
+	  overflow: hidden;
+	  background-color:#000;
+	  border-top-right-radius: 30px;
+	  border-bottom-left-radius:30px ;
+	}
+li {
+	float: left;}
+li a {
+	  display: block;
+	  color: white;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;}
+li a:hover {
+	background-color:grey;}
+.right{
+	float:right;}
+.active{
+	background-color: #007fc8;
+}
+.greet{
+	
+	text-align: center;
+	font-size: 30px;
+	text-decoration: double;
+	font-style: Cooper;
+	text-align: center;
+}
+
